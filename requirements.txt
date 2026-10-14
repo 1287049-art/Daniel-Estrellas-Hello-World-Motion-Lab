@@ -1,1 +1,7 @@
 streamlit
+streamlit-autorefresh
+sympy
+numpy
+pandas
+plotly
+matplotlib
